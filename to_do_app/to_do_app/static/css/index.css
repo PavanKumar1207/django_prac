@@ -27,6 +27,7 @@ body {
     width: 520px;
     border-radius: 25px;
     box-shadow: 0 0 10px rgba(255, 255, 255, 0.5);
+    overflow-y: auto;
 
   }
   .heading{
@@ -118,10 +119,10 @@ body {
     border-radius: 25px;
     box-shadow: 0 0 10px rgba(255, 255, 255, 0.5);
   }
-  /* .sign{
+  .sign{
     text-decoration: none;
-    padding: 10px;
-  } */
+    padding-right: 20px;
+  }
 
   .anca{
     font-size: 25px;
